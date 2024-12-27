@@ -1,0 +1,1 @@
+hadError: bool
